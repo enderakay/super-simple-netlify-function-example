@@ -1,2 +1,3 @@
+enableEmoji = true
 [build]
   functions = "./functions"
